@@ -15,3 +15,5 @@ He’re is a [JSON dataset](https://devrel.wearedevelopers.com/code100-puzzles/0
     { "width": 100, "height": 100 }
 ]
 ```
+
+Do you want to see a js version? check out my friend's [repo](https://github.com/agh92/code100amsterdam/tree/main)
